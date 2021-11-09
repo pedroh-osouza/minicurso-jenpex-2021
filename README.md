@@ -12,7 +12,7 @@ https://code.visualstudio.com
 
 Comando de instalação do Expo:
 
-npm install --global expo-cli
+´´´npm install --global expo-cli´´´
 
 Comando de criação de projeto:
 
