@@ -16,5 +16,5 @@ Comando de instalação do Expo:
 
 Comando de criação de projeto:
 
-expo init nome_do_projeto
+```expo init nome_do_projeto```
 
