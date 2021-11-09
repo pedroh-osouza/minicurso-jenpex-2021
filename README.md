@@ -8,9 +8,9 @@ https://code.visualstudio.com
 
 ------------------------------
 
-Comando de instalação do Expo
+Comando de instalação do Expo:
 npm install --global expo-cli
 
-Comando de criação de projeto
+Comando de criação de projeto:
 expo init nome_do_projeto
 
