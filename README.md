@@ -1,9 +1,9 @@
 # Minicurso_Jenpex2021
 
-Download Node.js
+Download Node.js:
 https://nodejs.org/en/
 
-Download Visual Studio Code
+Download Visual Studio Code:
 https://code.visualstudio.com
 
 ------------------------------
