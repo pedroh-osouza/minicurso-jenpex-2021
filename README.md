@@ -8,7 +8,11 @@ Download Visual Studio Code:
 
 https://code.visualstudio.com
 
-------------------------------
+Documentação React Native:
+
+https://reactnative.dev/docs/getting-started
+
+--------------------------------------------
 
 Comando de instalação do Expo:
 
