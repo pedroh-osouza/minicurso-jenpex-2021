@@ -8,11 +8,9 @@
 
 ## Comandos:
 
-Comando de instalação do Expo:
-
-```npm install --global expo-cli```
+```npm install --global expo-cli``` - Comando para instalação do Expo
 
 Comando de criação de projeto:
 
-```expo init nome_do_projeto```
+```expo init nome_do_projeto``` - Comando para criação de projetos
 
