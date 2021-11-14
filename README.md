@@ -14,8 +14,6 @@ Documentação React Native:
 
 https://reactnative.dev/docs/getting-started
 
---------------------------------------------
-
 ## Comandos:
 
 Comando de instalação do Expo:
