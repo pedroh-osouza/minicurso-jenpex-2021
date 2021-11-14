@@ -2,7 +2,7 @@
 
 ## Links:
 
-- [https://nodejs.org/en/](https://nodejs.org/en/)
+- [Download Node.js](https://nodejs.org/en/)
 - [Pins extras do GitHub](#pins-extras-do-github)
 - [Cartão de principais linguagens de programação](#cartão-de-principais-linguagens-de-programação)
 - [Estatística semanal Wakatime](#estatística-semanal-wakatime)
