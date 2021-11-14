@@ -11,7 +11,7 @@ export default function App() {
 
   function calcular(){
     var imc;
-    imc = peso/(altura^2)
+    imc = (peso/(altura^2)).toFixed(2)
     setIMC(imc)
   }
   
