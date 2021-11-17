@@ -13,4 +13,3 @@
 
 ```expo init nome_do_projeto``` - Comando para criação de projetos
 
-> hgjhgjkhg
