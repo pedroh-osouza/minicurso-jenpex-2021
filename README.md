@@ -1,4 +1,4 @@
-# Minicurso_Jenpex2021 - [I Jenpex Integrada 2021](https://eventos.ifmt.edu.br/eventos/120/IJENPEXINTEGRADA/)
+# [I Jenpex Integrada 2021](https://eventos.ifmt.edu.br/eventos/120/IJENPEXINTEGRADA/)
 
 ## Links:
   
