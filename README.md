@@ -6,6 +6,7 @@
 - [Download Visual Studio Code](https://code.visualstudio.com)
 - [Documentação React Native](https://reactnative.dev/docs/getting-started)
 - [Documentação Expo](https://docs.expo.dev/)
+- [I Jenpex Integrada 2021](https://eventos.ifmt.edu.br/eventos/120/IJENPEXINTEGRADA/)
 
 ## Comandos:
 
