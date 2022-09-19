@@ -12,5 +12,5 @@
 
 `npm install --global expo-cli` - Comando para instalação do Expo
 
-```expo init nome_do_projeto``` - Comando para criação de projetos
+```expo init nome_do_projeto``` - Comando para iniciar um projeto
 
